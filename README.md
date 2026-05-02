@@ -35,4 +35,4 @@ Security        Nmap · Metasploit · Burp Suite · Kali Linux · OSINT · Physi
 ### Find me
 
 - **Web** — [dnewport.dev](https://dnewport.dev)
-- **Email** — dillonnewport@outlook.com
+- **Email** — dillon.newport@outlook.com
