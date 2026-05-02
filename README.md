@@ -1,23 +1,26 @@
 ## Hey, I'm Dillon Newport
 
-NOC Manager based in the Southeast US. I build and operate the infrastructure that keeps things running — networks, servers, cameras, and the tooling that monitors all of it.
+NOC Manager based in the Southeast US. I lead remote technical support operations for distributed surveillance, server, and network infrastructure.
 
-My day-to-day spans incident response, infrastructure oversight, and building internal tools to cut down on manual work. I like turning operational pain points into automated solutions.
+My day-to-day work includes incident response, infrastructure troubleshooting, ticket and escalation oversight, field technician coordination, and support process improvement. I regularly work across Windows Server, Ubuntu/Linux, Hyper-V, IP camera systems, VMS platforms, firewalls, VPNs, PoE switches, wireless bridges, storage systems, monitoring platforms, and site connectivity issues.
 
-Currently working toward penetration testing — network-based and physical security assessments. Managing infrastructure from the defender's side for years gives a strong foundation; I'm focused on building the offensive skillset to match.
+I focus on turning recurring operational pain points into repeatable solutions — SOPs, scopes of work, troubleshooting guides, scripts, dashboards, and internal tools that reduce manual work and make technical teams more consistent.
+
+I’m currently working toward penetration testing, with a focus on network-based and physical security assessments. Managing infrastructure from the defender’s side has given me a strong foundation in how systems are built, how they fail, and how to troubleshoot them under pressure.
 
 ---
 
 ### What I work with
 
-```
-Networking      Cisco · Ubiquiti · SonicWall · VLANs · Subnetting · BGP/OSPF
-Systems         Linux (Ubuntu) · Bash · SSH · Systemd · NVR/VMS platforms
-Automation      Node.js · Python · REST APIs · Shell scripting
+```text
+Networking      Ubiquiti · SonicWall · VPNs · VLANs · Subnetting · Routing
+Systems         Windows Server · Linux/Ubuntu · Hyper-V · Bash · SSH · Systemd
+Video Systems   IP cameras · NVR/VMS platforms · Network Optix · Digital Watchdog · Immix
+Monitoring      PRTG · Infrastructure alerts · Uptime tracking · SLA/RTO workflows
+Automation      Python · Node.js · REST APIs · Shell scripting · Internal tooling
 Frontend        React · Next.js · Vite · Tailwind CSS
-Operations      Incident response · NOC workflows · Team leadership
+Operations      Incident response · Ticket workflows · Field support · Team leadership
 Security        Nmap · Metasploit · Burp Suite · Kali Linux · OSINT · Physical assessments
-```
 
 ---
 
